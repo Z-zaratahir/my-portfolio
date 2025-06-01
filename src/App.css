@@ -1,4 +1,57 @@
-.App {
+ /* .App{
+  width: 100vw;
+  height: 100vh;
+}
+
+.main{
+    width: 100vw;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .bg{
+      background-color: blue;
+    }
+
+    .bg1{
+      background-color: blueviolet;
+    }
+
+    .bg2
+    {
+      background-color: brown;
+    }
+
+    .bg3
+    {
+      background-color: aqua;
+    }
+
+    .bg4{
+      background-color: chartreuse;
+    }
+
+  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +88,75 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+/* src/index.css */
+
+
+
+
+
+
+/* BabyBoomer Font */
+@font-face {
+  font-family: 'BabyBoomer';
+  src: url('./Fonts/BabyBoomer/Baby\ Boomer.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* DXRigraf SemBdExpIta Font */
+@font-face {
+  font-family: 'DXRigraf';
+  src: url('./Fonts/Rigraf/DXRigraf-SemBdExpIta.otf') format('opentype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+/* DXRigraf SemiBold Font */
+@font-face {
+  font-family: 'DXRigraf';
+  src: url('./Fonts/Rigraf/DXRigraf-SemiBold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* DXRigraf SemiBoldExpanded Font */
+@font-face {
+  font-family: 'DXRigrafExpanded';
+  src: url('./Fonts/Rigraf/DXRigraf-SemiBoldExpanded.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* DXRigraf SemiBoldItalic Font */
+@font-face {
+  font-family: 'DXRigrafItalic';
+  src: url('./Fonts/Rigraf/DXRigraf-SemiBoldItalic.otf') format('opentype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+/* Apply the fonts globally or to specific classes */
+body {
+  font-family: 'DXRigraf', sans-serif;
+}
+
+.title {
+  font-family: 'DXRigraf', sans-serif;
+  font-size: 24px;
+  color: #333;
+}
+
+
+.expanded-text {
+  font-family: 'DXRigrafExpanded', sans-serif;
+  font-size: 20px;
+  color: #555;
+}
+
+.italic-text {
+  font-family: 'DXRigrafItalic', sans-serif;
+  font-size: 18px;
+  color: #666;
 }
