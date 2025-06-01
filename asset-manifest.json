@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.fdc2b5ac.css",
+    "main.js": "/my-portfolio/static/js/main.b1a05547.js",
+    "static/media/pinterest-video-46-pintod-kT0h-unscreen.gif": "/my-portfolio/static/media/pinterest-video-46-pintod-kT0h-unscreen.998736d5215ada20c7bf.gif",
+    "static/media/growingtree.gif": "/my-portfolio/static/media/growingtree.78c28590a04178d7a88f.gif",
+    "static/media/movingwindowscropped.mp4": "/my-portfolio/static/media/movingwindowscropped.8b592a7b4225da0b8915.mp4",
+    "static/media/hillroad-removebg-preview.png": "/my-portfolio/static/media/hillroad-removebg-preview.b3b52b137a13bbe91e44.png",
+    "static/media/vision.png": "/my-portfolio/static/media/vision.9d53846ea2556921f8c3.png",
+    "static/media/image.png": "/my-portfolio/static/media/image.dd911c99e983896dfa67.png",
+    "static/media/birdsketch.gif": "/my-portfolio/static/media/birdsketch.bae0e286d182552832ad.gif",
+    "static/media/painter-removebg-preview.png": "/my-portfolio/static/media/painter-removebg-preview.5da042a5ccc160789a51.png",
+    "static/media/Baby Boomer.otf": "/my-portfolio/static/media/Baby Boomer.521b9a4ebc2194842c28.otf",
+    "static/media/DXRigraf-SemBdExpIta.otf": "/my-portfolio/static/media/DXRigraf-SemBdExpIta.2415f2276694b60ac754.otf",
+    "static/media/DXRigraf-SemiBoldItalic.otf": "/my-portfolio/static/media/DXRigraf-SemiBoldItalic.7f9c3aaa4915e7858fa2.otf",
+    "static/media/DXRigraf-SemiBoldExpanded.otf": "/my-portfolio/static/media/DXRigraf-SemiBoldExpanded.25f4c18cbf5b9d1c2a3a.otf",
+    "static/media/DXRigraf-SemiBold.otf": "/my-portfolio/static/media/DXRigraf-SemiBold.443fc384dc8d5a268c8b.otf",
+    "static/media/sign.png": "/my-portfolio/static/media/sign.0ea0900354e0a415a126.png",
+    "static/media/track.gif": "/my-portfolio/static/media/track.6e6ed69c788194ca7fec.gif",
+    "static/media/woodarrow.png": "/my-portfolio/static/media/woodarrow.d4467fa22d4c4ae3e579.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.fdc2b5ac.css.map": "/my-portfolio/static/css/main.fdc2b5ac.css.map",
+    "main.b1a05547.js.map": "/my-portfolio/static/js/main.b1a05547.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdc2b5ac.css",
+    "static/js/main.b1a05547.js"
+  ]
+}
