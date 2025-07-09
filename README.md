@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Link to my portfolio: https://z-zaratahir.github.io/my-portfolio/ 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
